@@ -1,0 +1,45 @@
+/Users/Suhagan/Desktop/NET22/C-Sharp/csharp-workshops-main/02-guess-number/NumbersGame/NumbersGame/bin/Debug/net6.0/NumbersGame
+/Users/Suhagan/Desktop/NET22/C-Sharp/csharp-workshops-main/02-guess-number/NumbersGame/NumbersGame/bin/Debug/net6.0/NumbersGame.deps.json
+/Users/Suhagan/Desktop/NET22/C-Sharp/csharp-workshops-main/02-guess-number/NumbersGame/NumbersGame/bin/Debug/net6.0/NumbersGame.runtimeconfig.json
+/Users/Suhagan/Desktop/NET22/C-Sharp/csharp-workshops-main/02-guess-number/NumbersGame/NumbersGame/bin/Debug/net6.0/NumbersGame.dll
+/Users/Suhagan/Desktop/NET22/C-Sharp/csharp-workshops-main/02-guess-number/NumbersGame/NumbersGame/bin/Debug/net6.0/NumbersGame.pdb
+/Users/Suhagan/Desktop/NET22/C-Sharp/csharp-workshops-main/02-guess-number/NumbersGame/NumbersGame/obj/Debug/net6.0/NumbersGame.csproj.AssemblyReference.cache
+/Users/Suhagan/Desktop/NET22/C-Sharp/csharp-workshops-main/02-guess-number/NumbersGame/NumbersGame/obj/Debug/net6.0/NumbersGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Suhagan/Desktop/NET22/C-Sharp/csharp-workshops-main/02-guess-number/NumbersGame/NumbersGame/obj/Debug/net6.0/NumbersGame.AssemblyInfoInputs.cache
+/Users/Suhagan/Desktop/NET22/C-Sharp/csharp-workshops-main/02-guess-number/NumbersGame/NumbersGame/obj/Debug/net6.0/NumbersGame.AssemblyInfo.cs
+/Users/Suhagan/Desktop/NET22/C-Sharp/csharp-workshops-main/02-guess-number/NumbersGame/NumbersGame/obj/Debug/net6.0/NumbersGame.csproj.CoreCompileInputs.cache
+/Users/Suhagan/Desktop/NET22/C-Sharp/csharp-workshops-main/02-guess-number/NumbersGame/NumbersGame/obj/Debug/net6.0/NumbersGame.dll
+/Users/Suhagan/Desktop/NET22/C-Sharp/csharp-workshops-main/02-guess-number/NumbersGame/NumbersGame/obj/Debug/net6.0/refint/NumbersGame.dll
+/Users/Suhagan/Desktop/NET22/C-Sharp/csharp-workshops-main/02-guess-number/NumbersGame/NumbersGame/obj/Debug/net6.0/NumbersGame.pdb
+/Users/Suhagan/Desktop/NET22/C-Sharp/csharp-workshops-main/02-guess-number/NumbersGame/NumbersGame/obj/Debug/net6.0/NumbersGame.genruntimeconfig.cache
+/Users/Suhagan/Desktop/NET22/C-Sharp/csharp-workshops-main/02-guess-number/NumbersGame/NumbersGame/obj/Debug/net6.0/ref/NumbersGame.dll
+/Users/Suhagan/Desktop/Old Desktop files/Desktop - Suhagan’s MacBook Pro/NET22/C-Sharp/csharp-workshops-main/02-guess-number/NumbersGame/NumbersGame/bin/Debug/net6.0/NumbersGame
+/Users/Suhagan/Desktop/Old Desktop files/Desktop - Suhagan’s MacBook Pro/NET22/C-Sharp/csharp-workshops-main/02-guess-number/NumbersGame/NumbersGame/bin/Debug/net6.0/NumbersGame.deps.json
+/Users/Suhagan/Desktop/Old Desktop files/Desktop - Suhagan’s MacBook Pro/NET22/C-Sharp/csharp-workshops-main/02-guess-number/NumbersGame/NumbersGame/bin/Debug/net6.0/NumbersGame.runtimeconfig.json
+/Users/Suhagan/Desktop/Old Desktop files/Desktop - Suhagan’s MacBook Pro/NET22/C-Sharp/csharp-workshops-main/02-guess-number/NumbersGame/NumbersGame/bin/Debug/net6.0/NumbersGame.dll
+/Users/Suhagan/Desktop/Old Desktop files/Desktop - Suhagan’s MacBook Pro/NET22/C-Sharp/csharp-workshops-main/02-guess-number/NumbersGame/NumbersGame/bin/Debug/net6.0/NumbersGame.pdb
+/Users/Suhagan/Desktop/Old Desktop files/Desktop - Suhagan’s MacBook Pro/NET22/C-Sharp/csharp-workshops-main/02-guess-number/NumbersGame/NumbersGame/obj/Debug/net6.0/NumbersGame.csproj.AssemblyReference.cache
+/Users/Suhagan/Desktop/Old Desktop files/Desktop - Suhagan’s MacBook Pro/NET22/C-Sharp/csharp-workshops-main/02-guess-number/NumbersGame/NumbersGame/obj/Debug/net6.0/NumbersGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Suhagan/Desktop/Old Desktop files/Desktop - Suhagan’s MacBook Pro/NET22/C-Sharp/csharp-workshops-main/02-guess-number/NumbersGame/NumbersGame/obj/Debug/net6.0/NumbersGame.AssemblyInfoInputs.cache
+/Users/Suhagan/Desktop/Old Desktop files/Desktop - Suhagan’s MacBook Pro/NET22/C-Sharp/csharp-workshops-main/02-guess-number/NumbersGame/NumbersGame/obj/Debug/net6.0/NumbersGame.AssemblyInfo.cs
+/Users/Suhagan/Desktop/Old Desktop files/Desktop - Suhagan’s MacBook Pro/NET22/C-Sharp/csharp-workshops-main/02-guess-number/NumbersGame/NumbersGame/obj/Debug/net6.0/NumbersGame.csproj.CoreCompileInputs.cache
+/Users/Suhagan/Desktop/Old Desktop files/Desktop - Suhagan’s MacBook Pro/NET22/C-Sharp/csharp-workshops-main/02-guess-number/NumbersGame/NumbersGame/obj/Debug/net6.0/NumbersGame.dll
+/Users/Suhagan/Desktop/Old Desktop files/Desktop - Suhagan’s MacBook Pro/NET22/C-Sharp/csharp-workshops-main/02-guess-number/NumbersGame/NumbersGame/obj/Debug/net6.0/refint/NumbersGame.dll
+/Users/Suhagan/Desktop/Old Desktop files/Desktop - Suhagan’s MacBook Pro/NET22/C-Sharp/csharp-workshops-main/02-guess-number/NumbersGame/NumbersGame/obj/Debug/net6.0/NumbersGame.pdb
+/Users/Suhagan/Desktop/Old Desktop files/Desktop - Suhagan’s MacBook Pro/NET22/C-Sharp/csharp-workshops-main/02-guess-number/NumbersGame/NumbersGame/obj/Debug/net6.0/NumbersGame.genruntimeconfig.cache
+/Users/Suhagan/Desktop/Old Desktop files/Desktop - Suhagan’s MacBook Pro/NET22/C-Sharp/csharp-workshops-main/02-guess-number/NumbersGame/NumbersGame/obj/Debug/net6.0/ref/NumbersGame.dll
+/Users/Suhagan/Desktop/02-guess-number/NumbersGame/NumbersGame/bin/Debug/net6.0/NumbersGame
+/Users/Suhagan/Desktop/02-guess-number/NumbersGame/NumbersGame/bin/Debug/net6.0/NumbersGame.deps.json
+/Users/Suhagan/Desktop/02-guess-number/NumbersGame/NumbersGame/bin/Debug/net6.0/NumbersGame.runtimeconfig.json
+/Users/Suhagan/Desktop/02-guess-number/NumbersGame/NumbersGame/bin/Debug/net6.0/NumbersGame.dll
+/Users/Suhagan/Desktop/02-guess-number/NumbersGame/NumbersGame/bin/Debug/net6.0/NumbersGame.pdb
+/Users/Suhagan/Desktop/02-guess-number/NumbersGame/NumbersGame/obj/Debug/net6.0/NumbersGame.csproj.AssemblyReference.cache
+/Users/Suhagan/Desktop/02-guess-number/NumbersGame/NumbersGame/obj/Debug/net6.0/NumbersGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Suhagan/Desktop/02-guess-number/NumbersGame/NumbersGame/obj/Debug/net6.0/NumbersGame.AssemblyInfoInputs.cache
+/Users/Suhagan/Desktop/02-guess-number/NumbersGame/NumbersGame/obj/Debug/net6.0/NumbersGame.AssemblyInfo.cs
+/Users/Suhagan/Desktop/02-guess-number/NumbersGame/NumbersGame/obj/Debug/net6.0/NumbersGame.csproj.CoreCompileInputs.cache
+/Users/Suhagan/Desktop/02-guess-number/NumbersGame/NumbersGame/obj/Debug/net6.0/NumbersGame.dll
+/Users/Suhagan/Desktop/02-guess-number/NumbersGame/NumbersGame/obj/Debug/net6.0/refint/NumbersGame.dll
+/Users/Suhagan/Desktop/02-guess-number/NumbersGame/NumbersGame/obj/Debug/net6.0/NumbersGame.pdb
+/Users/Suhagan/Desktop/02-guess-number/NumbersGame/NumbersGame/obj/Debug/net6.0/NumbersGame.genruntimeconfig.cache
+/Users/Suhagan/Desktop/02-guess-number/NumbersGame/NumbersGame/obj/Debug/net6.0/ref/NumbersGame.dll
